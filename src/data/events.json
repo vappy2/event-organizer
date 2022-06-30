@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title":"Hellfest",
+        "description" :"Giga festival de metal",
+        "category":"Festival",
+        "date":"17 au 26 juin",
+        "nbPeople":"plus de 20 000",
+        "createdAt":"10 juin",
+        "emailCreator":""
+    },
+    {
+        "id": 2,
+        "title":"Thor: Love and thunder",
+        "description":"Super avant première du dernier Marvel",
+        "category":"Cinéma",
+        "date":"8 juillet",
+        "nbPeople":"200",
+        "createdAt":"30 juin",
+        "emailCreator":"pouete@pouete.fr"
+    },
+    {
+        "id": 3,
+        "title":"Foire au canardmouth",
+        "description":"Trust",
+        "category":"Foire",
+        "date":"30 juin",
+        "nbPeople":"10",
+        "createdAt":"30 juin",
+        "emailCreator":"pouete@pouete.fr"
+    },
+    {
+        "id": 4,
+        "title":"oui",
+        "description":"oui",
+        "category":"idk",
+        "date":"1 janvier",
+        "nbPeople":"0",
+        "createdAt":"1 janvier",
+        "emailCreator":"uai@pouete.fr"
+    }
+]
