@@ -3,7 +3,7 @@ const Event = (props) => {
         <div className="card">
             <h2>{props.title}</h2>
             <label>{props.label}</label>
-            <p>{props.date}</p>
+            <p><i>{props.date}</i></p>
             <p>{props.description}</p>
             <p>{props.emailCreator}</p>
         </div>

@@ -8,7 +8,7 @@ function App() {
     return(
       <Event key={event.id} 
     title={event.title} 
-    label={event.label} 
+    label={event.category} 
     date={event.date} 
     emailCreator={event.emailCreator} 
     description={event.description} />
